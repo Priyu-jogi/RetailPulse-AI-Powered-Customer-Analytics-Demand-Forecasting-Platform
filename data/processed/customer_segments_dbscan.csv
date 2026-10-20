@@ -1,0 +1,501 @@
+Customer_ID,Recency,Frequency,Monetary,Cluster,Segment_Name,DBSCAN_Cluster
+CUST0001,7,158,7260833.34,2,High Value Frequent Customers,0
+CUST0002,7,142,5836030.15,0,Recent Active Customers,0
+CUST0003,12,157,6882724.14,3,Needs Re-engagement,-1
+CUST0004,8,151,5680435.41,3,Needs Re-engagement,0
+CUST0005,3,121,4692442.97,1,Lower Spending Customers,0
+CUST0006,2,130,6154127.25,1,Lower Spending Customers,0
+CUST0007,1,137,6357620.12,0,Recent Active Customers,0
+CUST0008,5,127,5230583.07,1,Lower Spending Customers,0
+CUST0009,4,138,6575482.8,0,Recent Active Customers,0
+CUST0010,6,129,5650338.17,1,Lower Spending Customers,0
+CUST0011,2,154,6911534.14,2,High Value Frequent Customers,0
+CUST0012,1,146,7318402.4799999995,2,High Value Frequent Customers,0
+CUST0013,3,143,5323466.67,1,Lower Spending Customers,0
+CUST0014,1,130,5066292.2,1,Lower Spending Customers,0
+CUST0015,2,133,6235613.58,0,Recent Active Customers,0
+CUST0016,14,160,6914796.76,3,Needs Re-engagement,-1
+CUST0017,13,146,6992974.39,3,Needs Re-engagement,-1
+CUST0018,4,166,6389911.05,2,High Value Frequent Customers,0
+CUST0019,1,145,6399088.6,0,Recent Active Customers,0
+CUST0020,11,135,6169604.1,3,Needs Re-engagement,0
+CUST0021,12,143,6171853.28,3,Needs Re-engagement,0
+CUST0022,7,141,5346370.36,1,Lower Spending Customers,0
+CUST0023,5,143,6228538.63,0,Recent Active Customers,0
+CUST0024,6,139,6588132.29,0,Recent Active Customers,0
+CUST0025,12,116,5544329.34,1,Lower Spending Customers,-1
+CUST0026,2,141,5536923.35,1,Lower Spending Customers,0
+CUST0027,2,126,4733533.36,1,Lower Spending Customers,0
+CUST0028,9,161,7572658.47,2,High Value Frequent Customers,-1
+CUST0029,9,126,6269106.11,1,Lower Spending Customers,-1
+CUST0030,11,163,6507190.04,3,Needs Re-engagement,-1
+CUST0031,4,132,5449635.2299999995,1,Lower Spending Customers,0
+CUST0032,3,145,5320733.56,1,Lower Spending Customers,0
+CUST0033,7,121,5510645.88,1,Lower Spending Customers,1
+CUST0034,3,149,6421588.54,0,Recent Active Customers,0
+CUST0035,7,154,6420745.01,2,High Value Frequent Customers,0
+CUST0036,7,127,4686707.649999999,1,Lower Spending Customers,-1
+CUST0037,1,124,5376402.9,1,Lower Spending Customers,0
+CUST0038,11,164,7422875.55,2,High Value Frequent Customers,-1
+CUST0039,8,141,6635169.97,0,Recent Active Customers,0
+CUST0040,23,156,6807214.75,3,Needs Re-engagement,-1
+CUST0041,1,146,5885330.86,0,Recent Active Customers,0
+CUST0042,4,152,6755469.43,2,High Value Frequent Customers,0
+CUST0043,1,139,7510389.53,0,Recent Active Customers,-1
+CUST0044,4,153,6007732.52,0,Recent Active Customers,0
+CUST0045,1,139,6884733.81,0,Recent Active Customers,0
+CUST0046,6,132,6228703.82,0,Recent Active Customers,0
+CUST0047,4,141,6193707.83,0,Recent Active Customers,0
+CUST0048,12,135,5841232.21,3,Needs Re-engagement,0
+CUST0049,9,149,6990376.83,2,High Value Frequent Customers,0
+CUST0050,3,141,5133714.8,1,Lower Spending Customers,0
+CUST0051,3,137,5959096.51,0,Recent Active Customers,0
+CUST0052,1,147,6396025.0,0,Recent Active Customers,0
+CUST0053,1,128,5339257.78,1,Lower Spending Customers,0
+CUST0054,15,163,7113317.609999999,3,Needs Re-engagement,-1
+CUST0055,1,152,7024896.1899999995,2,High Value Frequent Customers,0
+CUST0056,11,165,8417357.56,2,High Value Frequent Customers,-1
+CUST0057,1,165,6233024.45,2,High Value Frequent Customers,0
+CUST0058,3,136,4509981.87,1,Lower Spending Customers,0
+CUST0059,7,135,6799255.94,0,Recent Active Customers,0
+CUST0060,9,128,5443389.19,1,Lower Spending Customers,-1
+CUST0061,4,150,5370840.54,0,Recent Active Customers,0
+CUST0062,12,140,6334602.21,3,Needs Re-engagement,0
+CUST0063,2,147,6542266.24,0,Recent Active Customers,0
+CUST0064,2,155,7184259.64,2,High Value Frequent Customers,0
+CUST0065,1,145,5989029.63,0,Recent Active Customers,0
+CUST0066,1,123,4440148.49,1,Lower Spending Customers,-1
+CUST0067,9,129,6019880.81,1,Lower Spending Customers,-1
+CUST0068,9,146,5435036.62,3,Needs Re-engagement,0
+CUST0069,3,121,5824659.49,1,Lower Spending Customers,0
+CUST0070,2,150,5925040.57,0,Recent Active Customers,0
+CUST0071,1,128,5997905.94,1,Lower Spending Customers,0
+CUST0072,9,126,6327203.27,1,Lower Spending Customers,-1
+CUST0073,1,141,5488399.5,1,Lower Spending Customers,0
+CUST0074,5,143,5641632.61,0,Recent Active Customers,0
+CUST0075,9,145,6433654.49,3,Needs Re-engagement,0
+CUST0076,2,139,6384220.45,0,Recent Active Customers,0
+CUST0077,15,145,7032244.75,3,Needs Re-engagement,-1
+CUST0078,2,135,5178484.61,1,Lower Spending Customers,0
+CUST0079,1,132,5905550.81,1,Lower Spending Customers,0
+CUST0080,2,142,6026894.67,0,Recent Active Customers,0
+CUST0081,1,143,7985578.75,2,High Value Frequent Customers,-1
+CUST0082,5,145,6855699.56,0,Recent Active Customers,0
+CUST0083,15,126,4290334.54,1,Lower Spending Customers,-1
+CUST0084,1,150,6271020.06,0,Recent Active Customers,0
+CUST0085,11,138,6051036.79,3,Needs Re-engagement,0
+CUST0086,10,139,6280337.89,3,Needs Re-engagement,0
+CUST0087,1,143,5920725.5,0,Recent Active Customers,0
+CUST0088,1,126,5787038.38,1,Lower Spending Customers,0
+CUST0089,2,136,6272786.31,0,Recent Active Customers,0
+CUST0090,11,144,6092891.25,3,Needs Re-engagement,0
+CUST0091,3,141,6579703.99,0,Recent Active Customers,0
+CUST0092,4,139,5497637.92,1,Lower Spending Customers,0
+CUST0093,4,133,5473595.95,1,Lower Spending Customers,0
+CUST0094,4,155,7112135.48,2,High Value Frequent Customers,0
+CUST0095,5,137,6290816.52,0,Recent Active Customers,0
+CUST0096,6,123,5132688.94,1,Lower Spending Customers,0
+CUST0097,8,148,5518847.27,3,Needs Re-engagement,0
+CUST0098,4,162,7241955.22,2,High Value Frequent Customers,0
+CUST0099,18,137,6318557.53,3,Needs Re-engagement,-1
+CUST0100,1,144,6389300.67,0,Recent Active Customers,0
+CUST0101,7,144,6161871.8,0,Recent Active Customers,0
+CUST0102,2,134,5143482.47,1,Lower Spending Customers,0
+CUST0103,6,156,6311661.74,2,High Value Frequent Customers,0
+CUST0104,4,153,6315692.77,0,Recent Active Customers,0
+CUST0105,1,154,6111077.8,0,Recent Active Customers,0
+CUST0106,5,142,6253527.61,0,Recent Active Customers,0
+CUST0107,8,136,6239591.6899999995,0,Recent Active Customers,0
+CUST0108,6,134,5584680.54,1,Lower Spending Customers,0
+CUST0109,2,149,5833213.03,0,Recent Active Customers,0
+CUST0110,6,146,5147616.21,1,Lower Spending Customers,0
+CUST0111,3,165,6473671.44,2,High Value Frequent Customers,0
+CUST0112,7,151,7073866.65,2,High Value Frequent Customers,0
+CUST0113,8,148,6976673.67,2,High Value Frequent Customers,0
+CUST0114,9,144,6756515.3,3,Needs Re-engagement,0
+CUST0115,2,117,4837535.4799999995,1,Lower Spending Customers,0
+CUST0116,4,141,6516580.38,0,Recent Active Customers,0
+CUST0117,6,136,5630976.57,1,Lower Spending Customers,0
+CUST0118,13,152,6743789.21,3,Needs Re-engagement,-1
+CUST0119,5,122,5686075.79,1,Lower Spending Customers,1
+CUST0120,6,148,6282424.11,0,Recent Active Customers,0
+CUST0121,13,144,5829322.92,3,Needs Re-engagement,0
+CUST0122,1,163,7945438.19,2,High Value Frequent Customers,0
+CUST0123,5,133,5221276.39,1,Lower Spending Customers,0
+CUST0124,2,142,6320850.37,0,Recent Active Customers,0
+CUST0125,1,165,7359714.71,2,High Value Frequent Customers,0
+CUST0126,11,149,6872663.18,3,Needs Re-engagement,0
+CUST0127,10,138,5394804.7700000005,1,Lower Spending Customers,0
+CUST0128,27,152,6183486.9799999995,3,Needs Re-engagement,-1
+CUST0129,4,134,6084015.34,0,Recent Active Customers,0
+CUST0130,3,175,7500829.13,2,High Value Frequent Customers,-1
+CUST0131,6,124,4385252.57,1,Lower Spending Customers,-1
+CUST0132,6,151,6719864.01,2,High Value Frequent Customers,0
+CUST0133,16,176,8628535.28,2,High Value Frequent Customers,-1
+CUST0134,6,140,6508884.19,0,Recent Active Customers,0
+CUST0135,1,141,6139987.32,0,Recent Active Customers,0
+CUST0136,4,160,5988927.79,0,Recent Active Customers,0
+CUST0137,3,144,6781854.84,0,Recent Active Customers,0
+CUST0138,10,153,6498886.97,3,Needs Re-engagement,0
+CUST0139,9,156,5902138.52,3,Needs Re-engagement,-1
+CUST0140,15,152,6685932.61,3,Needs Re-engagement,-1
+CUST0141,1,142,6147024.94,0,Recent Active Customers,0
+CUST0142,5,144,5198778.56,1,Lower Spending Customers,0
+CUST0143,6,151,7730135.03,2,High Value Frequent Customers,-1
+CUST0144,1,137,6309917.33,0,Recent Active Customers,0
+CUST0145,1,151,6368733.22,0,Recent Active Customers,0
+CUST0146,5,120,5581265.06,1,Lower Spending Customers,1
+CUST0147,6,138,6685589.61,0,Recent Active Customers,0
+CUST0148,1,134,6092395.01,0,Recent Active Customers,0
+CUST0149,6,142,6046624.54,0,Recent Active Customers,0
+CUST0150,1,169,8003525.98,2,High Value Frequent Customers,-1
+CUST0151,2,148,7050795.649999999,2,High Value Frequent Customers,0
+CUST0152,1,138,5774784.28,0,Recent Active Customers,0
+CUST0153,2,134,6081999.46,0,Recent Active Customers,0
+CUST0154,3,143,5790992.84,0,Recent Active Customers,0
+CUST0155,5,129,5068115.47,1,Lower Spending Customers,0
+CUST0156,5,150,5784190.79,0,Recent Active Customers,0
+CUST0157,2,146,5975245.1,0,Recent Active Customers,0
+CUST0158,11,129,5273670.25,1,Lower Spending Customers,0
+CUST0159,5,141,6106444.38,0,Recent Active Customers,0
+CUST0160,6,143,7351390.09,2,High Value Frequent Customers,0
+CUST0161,6,136,5388364.37,1,Lower Spending Customers,0
+CUST0162,7,138,7144795.32,0,Recent Active Customers,-1
+CUST0163,1,139,6831504.16,0,Recent Active Customers,0
+CUST0164,1,142,6344530.57,0,Recent Active Customers,0
+CUST0165,3,161,7392272.39,2,High Value Frequent Customers,0
+CUST0166,9,140,6201472.38,3,Needs Re-engagement,0
+CUST0167,4,134,6550966.9799999995,0,Recent Active Customers,0
+CUST0168,7,139,6146808.74,0,Recent Active Customers,0
+CUST0169,2,135,5745224.57,1,Lower Spending Customers,0
+CUST0170,12,139,5919141.02,3,Needs Re-engagement,0
+CUST0171,2,157,7186574.45,2,High Value Frequent Customers,0
+CUST0172,2,145,5159458.44,1,Lower Spending Customers,0
+CUST0173,10,140,6888066.3,3,Needs Re-engagement,0
+CUST0174,2,127,6054091.47,1,Lower Spending Customers,0
+CUST0175,4,159,7649211.03,2,High Value Frequent Customers,0
+CUST0176,2,144,6233121.55,0,Recent Active Customers,0
+CUST0177,2,150,6040857.2,0,Recent Active Customers,0
+CUST0178,3,162,6536795.59,2,High Value Frequent Customers,0
+CUST0179,2,146,6683472.57,0,Recent Active Customers,0
+CUST0180,2,153,6107668.35,0,Recent Active Customers,0
+CUST0181,5,156,6014767.02,0,Recent Active Customers,0
+CUST0182,11,138,5524975.15,3,Needs Re-engagement,0
+CUST0183,4,135,5455802.63,1,Lower Spending Customers,0
+CUST0184,1,138,5577647.64,1,Lower Spending Customers,0
+CUST0185,6,122,4843964.41,1,Lower Spending Customers,-1
+CUST0186,5,141,6087506.6,0,Recent Active Customers,0
+CUST0187,4,138,6837103.11,0,Recent Active Customers,0
+CUST0188,2,146,6438825.86,0,Recent Active Customers,0
+CUST0189,3,141,6052421.91,0,Recent Active Customers,0
+CUST0190,2,127,6041654.02,1,Lower Spending Customers,0
+CUST0191,5,141,6560236.22,0,Recent Active Customers,0
+CUST0192,2,129,5884196.5200000005,1,Lower Spending Customers,0
+CUST0193,10,133,5706797.19,1,Lower Spending Customers,0
+CUST0194,6,130,5006058.37,1,Lower Spending Customers,0
+CUST0195,2,121,5069816.37,1,Lower Spending Customers,0
+CUST0196,6,123,5774334.41,1,Lower Spending Customers,1
+CUST0197,2,143,5815590.59,0,Recent Active Customers,0
+CUST0198,3,143,5422863.64,1,Lower Spending Customers,0
+CUST0199,13,147,5884525.55,3,Needs Re-engagement,0
+CUST0200,1,155,6474843.99,0,Recent Active Customers,0
+CUST0201,5,149,7986276.16,2,High Value Frequent Customers,-1
+CUST0202,3,166,6415770.21,2,High Value Frequent Customers,0
+CUST0203,7,118,5718916.8,1,Lower Spending Customers,1
+CUST0204,4,142,5343621.12,1,Lower Spending Customers,0
+CUST0205,8,161,6911479.26,2,High Value Frequent Customers,0
+CUST0206,3,164,7691965.99,2,High Value Frequent Customers,0
+CUST0207,3,145,5592216.38,0,Recent Active Customers,0
+CUST0208,10,162,6823192.74,2,High Value Frequent Customers,0
+CUST0209,12,145,6593634.3,3,Needs Re-engagement,0
+CUST0210,13,154,6271383.859999999,3,Needs Re-engagement,-1
+CUST0211,2,148,6089468.81,0,Recent Active Customers,0
+CUST0212,2,142,6440057.59,0,Recent Active Customers,0
+CUST0213,1,163,6499842.38,2,High Value Frequent Customers,0
+CUST0214,1,127,5016917.22,1,Lower Spending Customers,0
+CUST0215,7,143,5652881.22,0,Recent Active Customers,0
+CUST0216,7,144,5465635.86,1,Lower Spending Customers,0
+CUST0217,9,140,5952786.64,3,Needs Re-engagement,0
+CUST0218,7,141,6639341.64,0,Recent Active Customers,0
+CUST0219,11,149,6788363.11,3,Needs Re-engagement,0
+CUST0220,4,161,6426323.31,2,High Value Frequent Customers,0
+CUST0221,1,151,6263645.01,0,Recent Active Customers,0
+CUST0222,2,139,6272520.54,0,Recent Active Customers,0
+CUST0223,1,131,6556125.12,0,Recent Active Customers,0
+CUST0224,1,131,5960838.87,1,Lower Spending Customers,0
+CUST0225,3,152,5266426.43,0,Recent Active Customers,-1
+CUST0226,5,141,6182845.5200000005,0,Recent Active Customers,0
+CUST0227,20,132,6192538.38,3,Needs Re-engagement,-1
+CUST0228,3,140,5482126.33,1,Lower Spending Customers,0
+CUST0229,7,140,6765234.63,0,Recent Active Customers,0
+CUST0230,1,130,6383992.1,0,Recent Active Customers,0
+CUST0231,2,148,5707319.8,0,Recent Active Customers,0
+CUST0232,5,152,6206062.78,0,Recent Active Customers,0
+CUST0233,1,136,5616830.18,1,Lower Spending Customers,0
+CUST0234,12,134,5585726.59,3,Needs Re-engagement,0
+CUST0235,1,146,5870736.6,0,Recent Active Customers,0
+CUST0236,6,140,6168735.77,0,Recent Active Customers,0
+CUST0237,15,133,5083554.01,3,Needs Re-engagement,-1
+CUST0238,3,147,5907300.15,0,Recent Active Customers,0
+CUST0239,2,118,4026511.83,1,Lower Spending Customers,-1
+CUST0240,2,158,7530294.92,2,High Value Frequent Customers,0
+CUST0241,2,150,7284847.17,2,High Value Frequent Customers,0
+CUST0242,3,125,5282745.43,1,Lower Spending Customers,0
+CUST0243,3,128,6631269.5,0,Recent Active Customers,0
+CUST0244,2,172,7769035.91,2,High Value Frequent Customers,-1
+CUST0245,2,133,4912609.86,1,Lower Spending Customers,0
+CUST0246,4,171,8083613.12,2,High Value Frequent Customers,-1
+CUST0247,6,130,5977209.14,1,Lower Spending Customers,0
+CUST0248,4,146,5395860.54,0,Recent Active Customers,0
+CUST0249,15,139,6098979.94,3,Needs Re-engagement,-1
+CUST0250,2,134,5892353.51,1,Lower Spending Customers,0
+CUST0251,1,144,6493522.5,0,Recent Active Customers,0
+CUST0252,7,144,5648245.24,0,Recent Active Customers,0
+CUST0253,5,151,6381604.31,0,Recent Active Customers,0
+CUST0254,21,128,5960061.97,3,Needs Re-engagement,-1
+CUST0255,11,157,6318470.07,3,Needs Re-engagement,-1
+CUST0256,8,135,5913731.61,1,Lower Spending Customers,0
+CUST0257,2,139,7007807.7,0,Recent Active Customers,0
+CUST0258,1,149,6067172.12,0,Recent Active Customers,0
+CUST0259,3,140,6087298.2299999995,0,Recent Active Customers,0
+CUST0260,3,134,6115695.39,0,Recent Active Customers,0
+CUST0261,2,146,5875330.67,0,Recent Active Customers,0
+CUST0262,2,146,6625727.83,0,Recent Active Customers,0
+CUST0263,1,148,6437148.53,0,Recent Active Customers,0
+CUST0264,7,147,6177908.09,0,Recent Active Customers,0
+CUST0265,4,142,6851987.58,0,Recent Active Customers,0
+CUST0266,3,142,6311381.78,0,Recent Active Customers,0
+CUST0267,2,131,5852684.64,1,Lower Spending Customers,0
+CUST0268,2,155,6286297.97,0,Recent Active Customers,0
+CUST0269,2,127,6154823.88,1,Lower Spending Customers,0
+CUST0270,8,137,6021946.4799999995,0,Recent Active Customers,0
+CUST0271,3,159,7438189.46,2,High Value Frequent Customers,0
+CUST0272,4,136,5852516.14,1,Lower Spending Customers,0
+CUST0273,20,133,5968981.13,3,Needs Re-engagement,-1
+CUST0274,6,150,6303311.51,0,Recent Active Customers,0
+CUST0275,8,150,7020103.38,2,High Value Frequent Customers,0
+CUST0276,1,140,6930542.39,0,Recent Active Customers,0
+CUST0277,9,149,7180900.859999999,2,High Value Frequent Customers,0
+CUST0278,2,164,7659765.36,2,High Value Frequent Customers,0
+CUST0279,20,136,5901151.25,3,Needs Re-engagement,-1
+CUST0280,1,137,5702082.88,1,Lower Spending Customers,0
+CUST0281,9,148,7107468.95,2,High Value Frequent Customers,0
+CUST0282,6,137,6114013.12,0,Recent Active Customers,0
+CUST0283,7,138,6594089.91,0,Recent Active Customers,0
+CUST0284,1,144,5832397.14,0,Recent Active Customers,0
+CUST0285,6,143,6288777.33,0,Recent Active Customers,0
+CUST0286,3,146,7257737.4,2,High Value Frequent Customers,0
+CUST0287,15,134,5249418.38,3,Needs Re-engagement,-1
+CUST0288,2,135,6442435.49,0,Recent Active Customers,0
+CUST0289,2,155,7403376.9,2,High Value Frequent Customers,0
+CUST0290,15,130,6323402.61,3,Needs Re-engagement,-1
+CUST0291,6,136,5584045.31,1,Lower Spending Customers,0
+CUST0292,2,137,5700761.26,1,Lower Spending Customers,0
+CUST0293,8,131,5072101.51,1,Lower Spending Customers,0
+CUST0294,1,132,5250128.6899999995,1,Lower Spending Customers,0
+CUST0295,3,138,5762743.43,1,Lower Spending Customers,0
+CUST0296,1,145,6782175.14,0,Recent Active Customers,0
+CUST0297,3,138,5423258.58,1,Lower Spending Customers,0
+CUST0298,10,128,5488031.58,1,Lower Spending Customers,-1
+CUST0299,1,166,7867717.87,2,High Value Frequent Customers,0
+CUST0300,15,138,6375119.98,3,Needs Re-engagement,-1
+CUST0301,9,145,5801936.25,3,Needs Re-engagement,0
+CUST0302,11,148,6102930.9,3,Needs Re-engagement,0
+CUST0303,3,150,6459078.17,0,Recent Active Customers,0
+CUST0304,16,167,7137372.05,3,Needs Re-engagement,-1
+CUST0305,5,128,5389670.6,1,Lower Spending Customers,0
+CUST0306,1,152,6968892.77,2,High Value Frequent Customers,0
+CUST0307,1,147,6652783.77,0,Recent Active Customers,0
+CUST0308,1,138,4817706.48,1,Lower Spending Customers,0
+CUST0309,2,171,6199084.01,2,High Value Frequent Customers,-1
+CUST0310,8,129,6771898.09,0,Recent Active Customers,-1
+CUST0311,2,164,5693120.91,0,Recent Active Customers,-1
+CUST0312,5,138,6327737.8,0,Recent Active Customers,0
+CUST0313,3,138,5343588.72,1,Lower Spending Customers,0
+CUST0314,1,163,6890983.45,2,High Value Frequent Customers,0
+CUST0315,10,135,5591191.06,1,Lower Spending Customers,0
+CUST0316,15,156,7168057.46,3,Needs Re-engagement,-1
+CUST0317,6,138,5309050.14,1,Lower Spending Customers,0
+CUST0318,1,135,6360386.26,0,Recent Active Customers,0
+CUST0319,2,154,6423411.36,0,Recent Active Customers,0
+CUST0320,1,139,6145164.36,0,Recent Active Customers,0
+CUST0321,2,148,7546521.16,2,High Value Frequent Customers,0
+CUST0322,5,131,5183118.13,1,Lower Spending Customers,0
+CUST0323,9,138,6739596.81,3,Needs Re-engagement,0
+CUST0324,3,152,6377457.79,0,Recent Active Customers,0
+CUST0325,1,145,5354701.18,0,Recent Active Customers,0
+CUST0326,3,161,7915608.08,2,High Value Frequent Customers,0
+CUST0327,4,127,5821511.6899999995,1,Lower Spending Customers,0
+CUST0328,3,157,7166025.69,2,High Value Frequent Customers,0
+CUST0329,8,142,5172114.12,1,Lower Spending Customers,0
+CUST0330,3,136,5635479.95,1,Lower Spending Customers,0
+CUST0331,4,137,5799954.2299999995,1,Lower Spending Customers,0
+CUST0332,1,150,5845299.28,0,Recent Active Customers,0
+CUST0333,11,139,6648421.35,3,Needs Re-engagement,0
+CUST0334,5,152,6765890.24,2,High Value Frequent Customers,0
+CUST0335,9,157,6726471.44,2,High Value Frequent Customers,0
+CUST0336,7,148,6630075.2,0,Recent Active Customers,0
+CUST0337,23,167,5875868.86,3,Needs Re-engagement,-1
+CUST0338,10,143,5763443.4399999995,3,Needs Re-engagement,0
+CUST0339,2,135,5831213.52,1,Lower Spending Customers,0
+CUST0340,5,152,7286964.4,2,High Value Frequent Customers,0
+CUST0341,4,135,6364693.9799999995,0,Recent Active Customers,0
+CUST0342,8,166,6256265.59,2,High Value Frequent Customers,-1
+CUST0343,13,120,5081952.88,1,Lower Spending Customers,-1
+CUST0344,17,142,6145443.83,3,Needs Re-engagement,-1
+CUST0345,9,147,6287415.43,3,Needs Re-engagement,0
+CUST0346,1,157,6669185.52,2,High Value Frequent Customers,0
+CUST0347,2,125,6000551.46,1,Lower Spending Customers,0
+CUST0348,3,144,6082365.08,0,Recent Active Customers,0
+CUST0349,7,133,5789737.37,1,Lower Spending Customers,0
+CUST0350,1,124,4566040.52,1,Lower Spending Customers,0
+CUST0351,12,148,6499883.87,3,Needs Re-engagement,0
+CUST0352,5,164,6535081.68,2,High Value Frequent Customers,0
+CUST0353,4,146,6087870.24,0,Recent Active Customers,0
+CUST0354,1,161,6625983.04,2,High Value Frequent Customers,0
+CUST0355,1,137,5423350.34,1,Lower Spending Customers,0
+CUST0356,8,161,6559233.63,2,High Value Frequent Customers,0
+CUST0357,10,145,6719058.07,3,Needs Re-engagement,0
+CUST0358,10,152,5904524.82,3,Needs Re-engagement,0
+CUST0359,3,146,6796388.31,0,Recent Active Customers,0
+CUST0360,1,162,6715437.17,2,High Value Frequent Customers,0
+CUST0361,2,150,6258498.1899999995,0,Recent Active Customers,0
+CUST0362,5,143,7255390.17,2,High Value Frequent Customers,0
+CUST0363,3,142,6108898.5200000005,0,Recent Active Customers,0
+CUST0364,17,171,7342322.13,3,Needs Re-engagement,-1
+CUST0365,11,119,4848201.19,1,Lower Spending Customers,-1
+CUST0366,2,176,7454646.57,2,High Value Frequent Customers,-1
+CUST0367,4,131,5555306.56,1,Lower Spending Customers,0
+CUST0368,1,151,5897835.71,0,Recent Active Customers,0
+CUST0369,2,148,5587164.46,0,Recent Active Customers,0
+CUST0370,6,157,7125370.39,2,High Value Frequent Customers,0
+CUST0371,3,134,5227787.12,1,Lower Spending Customers,0
+CUST0372,1,145,5956009.85,0,Recent Active Customers,0
+CUST0373,7,149,6758490.27,2,High Value Frequent Customers,0
+CUST0374,7,143,6694045.24,0,Recent Active Customers,0
+CUST0375,3,155,6347869.26,0,Recent Active Customers,0
+CUST0376,6,144,5417947.56,1,Lower Spending Customers,0
+CUST0377,1,139,6147700.59,0,Recent Active Customers,0
+CUST0378,1,152,6692328.16,0,Recent Active Customers,0
+CUST0379,9,140,5466948.9399999995,1,Lower Spending Customers,0
+CUST0380,4,153,6357664.01,0,Recent Active Customers,0
+CUST0381,2,132,7185089.5,0,Recent Active Customers,-1
+CUST0382,2,137,5195109.59,1,Lower Spending Customers,0
+CUST0383,5,159,8178315.12,2,High Value Frequent Customers,-1
+CUST0384,8,145,5332259.14,1,Lower Spending Customers,0
+CUST0385,8,161,5927270.31,3,Needs Re-engagement,-1
+CUST0386,9,135,5516440.2,1,Lower Spending Customers,0
+CUST0387,2,148,5648260.21,0,Recent Active Customers,0
+CUST0388,11,144,6537905.54,3,Needs Re-engagement,0
+CUST0389,3,130,6375249.62,0,Recent Active Customers,0
+CUST0390,13,143,5960281.65,3,Needs Re-engagement,0
+CUST0391,8,155,6692560.09,2,High Value Frequent Customers,0
+CUST0392,4,165,6440122.04,2,High Value Frequent Customers,0
+CUST0393,14,127,6054453.82,3,Needs Re-engagement,-1
+CUST0394,3,135,5526375.92,1,Lower Spending Customers,0
+CUST0395,2,147,5825866.57,0,Recent Active Customers,0
+CUST0396,10,174,7940051.45,2,High Value Frequent Customers,-1
+CUST0397,9,139,5902672.74,3,Needs Re-engagement,0
+CUST0398,10,138,5926717.64,3,Needs Re-engagement,0
+CUST0399,5,144,6462162.91,0,Recent Active Customers,0
+CUST0400,8,146,5818477.31,3,Needs Re-engagement,0
+CUST0401,18,175,7705557.37,2,High Value Frequent Customers,-1
+CUST0402,5,143,6764198.1899999995,0,Recent Active Customers,0
+CUST0403,1,134,5586323.9,1,Lower Spending Customers,0
+CUST0404,3,140,6154361.84,0,Recent Active Customers,0
+CUST0405,8,141,5766757.69,1,Lower Spending Customers,0
+CUST0406,3,159,6031361.22,0,Recent Active Customers,0
+CUST0407,13,158,5609933.6,3,Needs Re-engagement,-1
+CUST0408,1,146,6729810.82,0,Recent Active Customers,0
+CUST0409,3,141,6559650.89,0,Recent Active Customers,0
+CUST0410,2,134,5739056.47,1,Lower Spending Customers,0
+CUST0411,5,153,5978118.69,0,Recent Active Customers,0
+CUST0412,2,137,5638018.02,1,Lower Spending Customers,0
+CUST0413,2,142,6216576.32,0,Recent Active Customers,0
+CUST0414,9,142,5869173.27,3,Needs Re-engagement,0
+CUST0415,4,133,5785028.21,1,Lower Spending Customers,0
+CUST0416,2,162,7276538.94,2,High Value Frequent Customers,0
+CUST0417,3,143,5992945.76,0,Recent Active Customers,0
+CUST0418,8,143,6130244.61,0,Recent Active Customers,0
+CUST0419,33,138,5512989.06,3,Needs Re-engagement,-1
+CUST0420,4,112,4008251.3,1,Lower Spending Customers,-1
+CUST0421,5,130,5166061.7,1,Lower Spending Customers,0
+CUST0422,10,143,7176181.61,3,Needs Re-engagement,0
+CUST0423,5,143,7087593.73,0,Recent Active Customers,0
+CUST0424,1,139,5958622.79,0,Recent Active Customers,0
+CUST0425,1,139,7360953.64,0,Recent Active Customers,-1
+CUST0426,7,142,6627952.64,0,Recent Active Customers,0
+CUST0427,3,128,5191257.84,1,Lower Spending Customers,0
+CUST0428,5,150,5930280.1,0,Recent Active Customers,0
+CUST0429,1,131,4924389.8,1,Lower Spending Customers,0
+CUST0430,4,139,6062412.36,0,Recent Active Customers,0
+CUST0431,2,148,6119770.21,0,Recent Active Customers,0
+CUST0432,1,143,6441793.97,0,Recent Active Customers,0
+CUST0433,6,146,6795685.67,0,Recent Active Customers,0
+CUST0434,16,160,6830012.19,3,Needs Re-engagement,-1
+CUST0435,7,142,5894239.89,0,Recent Active Customers,0
+CUST0436,6,162,7144772.41,2,High Value Frequent Customers,0
+CUST0437,4,128,4980839.43,1,Lower Spending Customers,0
+CUST0438,7,159,8256348.21,2,High Value Frequent Customers,-1
+CUST0439,9,147,5920907.09,3,Needs Re-engagement,0
+CUST0440,7,136,4792761.08,1,Lower Spending Customers,-1
+CUST0441,3,121,5308143.16,1,Lower Spending Customers,0
+CUST0442,2,144,7070574.08,0,Recent Active Customers,0
+CUST0443,10,153,5014680.38,3,Needs Re-engagement,-1
+CUST0444,3,145,6293660.14,0,Recent Active Customers,0
+CUST0445,5,135,5629677.84,1,Lower Spending Customers,0
+CUST0446,6,136,6617922.06,0,Recent Active Customers,0
+CUST0447,4,167,7859819.64,2,High Value Frequent Customers,0
+CUST0448,1,141,6271204.86,0,Recent Active Customers,0
+CUST0449,2,118,4903447.73,1,Lower Spending Customers,0
+CUST0450,4,150,6413773.62,0,Recent Active Customers,0
+CUST0451,2,138,6102183.62,0,Recent Active Customers,0
+CUST0452,4,148,6693603.09,0,Recent Active Customers,0
+CUST0453,7,114,4808798.97,1,Lower Spending Customers,-1
+CUST0454,1,139,6088870.149999999,0,Recent Active Customers,0
+CUST0455,9,141,6099802.08,3,Needs Re-engagement,0
+CUST0456,4,151,6913548.53,2,High Value Frequent Customers,0
+CUST0457,3,158,7132567.62,2,High Value Frequent Customers,0
+CUST0458,2,131,4984643.48,1,Lower Spending Customers,0
+CUST0459,3,149,7510792.59,2,High Value Frequent Customers,0
+CUST0460,6,161,7453110.0,2,High Value Frequent Customers,0
+CUST0461,2,159,6362431.16,2,High Value Frequent Customers,0
+CUST0462,15,137,5836065.85,3,Needs Re-engagement,-1
+CUST0463,11,148,5636617.7299999995,3,Needs Re-engagement,-1
+CUST0464,1,139,4953684.67,1,Lower Spending Customers,0
+CUST0465,7,155,8046058.38,2,High Value Frequent Customers,-1
+CUST0466,1,149,6589713.13,0,Recent Active Customers,0
+CUST0467,4,139,4874200.85,1,Lower Spending Customers,0
+CUST0468,5,144,6119561.64,0,Recent Active Customers,0
+CUST0469,2,155,6012687.83,0,Recent Active Customers,0
+CUST0470,4,129,6218298.94,1,Lower Spending Customers,0
+CUST0471,11,145,6429797.31,3,Needs Re-engagement,0
+CUST0472,1,154,6109666.54,0,Recent Active Customers,0
+CUST0473,10,152,6759409.65,3,Needs Re-engagement,0
+CUST0474,12,143,6318252.7299999995,3,Needs Re-engagement,0
+CUST0475,7,134,5438733.71,1,Lower Spending Customers,0
+CUST0476,3,149,6330656.19,0,Recent Active Customers,0
+CUST0477,12,120,5061315.39,1,Lower Spending Customers,-1
+CUST0478,12,156,6163883.71,3,Needs Re-engagement,-1
+CUST0479,10,134,5335243.74,1,Lower Spending Customers,0
+CUST0480,9,148,6882058.6899999995,3,Needs Re-engagement,0
+CUST0481,1,160,6337234.79,2,High Value Frequent Customers,0
+CUST0482,1,143,6794143.04,0,Recent Active Customers,0
+CUST0483,4,156,7576113.79,2,High Value Frequent Customers,0
+CUST0484,6,129,6087729.149999999,1,Lower Spending Customers,0
+CUST0485,1,138,5832809.54,0,Recent Active Customers,0
+CUST0486,18,142,6918710.11,3,Needs Re-engagement,-1
+CUST0487,3,136,4872792.88,1,Lower Spending Customers,0
+CUST0488,22,134,5505500.54,3,Needs Re-engagement,-1
+CUST0489,3,137,6605523.28,0,Recent Active Customers,0
+CUST0490,1,130,4924881.46,1,Lower Spending Customers,0
+CUST0491,10,148,7278896.8,2,High Value Frequent Customers,0
+CUST0492,10,146,6643140.62,3,Needs Re-engagement,0
+CUST0493,3,127,5927289.19,1,Lower Spending Customers,0
+CUST0494,6,136,5788096.71,1,Lower Spending Customers,0
+CUST0495,3,160,6477039.56,2,High Value Frequent Customers,0
+CUST0496,7,160,6974723.55,2,High Value Frequent Customers,0
+CUST0497,2,139,6369895.88,0,Recent Active Customers,0
+CUST0498,2,151,5706134.8,0,Recent Active Customers,0
+CUST0499,3,119,4730114.71,1,Lower Spending Customers,0
+CUST0500,2,151,7261746.9,2,High Value Frequent Customers,0

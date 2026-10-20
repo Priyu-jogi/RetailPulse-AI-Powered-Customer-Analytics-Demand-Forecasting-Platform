@@ -1,0 +1,7 @@
+Candidate_Cluster,Candidate_Segment_Name,Customer_Count,Avg_Recency,Avg_Frequency,Avg_Monetary
+0,Recently Active Customers,171,2.96,143.94,6299946.34
+1,Moderate-Value Re-engagement Candidates,75,9.35,137.19,5718006.25
+2,High-Value Frequent Customers,70,3.36,159.34,7236553.5
+3,High-Value Re-engagement Candidates,62,10.61,152.56,6745258.53
+4,High-Recency Re-engagement Candidates,16,20.12,140.06,6120254.55
+5,Recently Active Lower-Spending Customers,106,3.09,131.18,5351194.04
